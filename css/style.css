@@ -6,6 +6,7 @@
 
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.5;
 }
 
 a{
@@ -57,8 +58,33 @@ ul{
 
 /* Slider */
 
-.slider{
-    background-image: url('./img/slider bg.png');
-    height: 500px;
-    width: 500px;
+.covid-19{
+    margin-top: 10px;
+    font-size: 14px;
+    height: 40px;
+    padding-top:10px;
+    color: whitesmoke;
+    text-align: center;
+    background-color: #0067B8;
 }
+
+.slider{
+    background-image: url("https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4CVSe?ver=64e0&q=0&m=8&h=600&w=1600&b=%23FFFFFFFF&l=f&x=0&y=199&s=2120&d=795&aim=true");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    width: 100wv;
+}
+
+.slider .content{
+    margin-left: 70px;
+    position: relative;
+    top: 30%;
+}
+
+.slider .content h1{
+    font-size: 25px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
