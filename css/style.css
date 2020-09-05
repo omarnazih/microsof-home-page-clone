@@ -205,3 +205,19 @@ ul{
     top: 60%;
     left: 100px;
 }
+
+.footer-bg .content p{
+    margin-top: 10px;
+}
+
+.lm-btn{
+    color: black;
+    font-weight: 500;
+    font-size: 16px;
+    background-color: white;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    padding-top: 10px;
+}
+
