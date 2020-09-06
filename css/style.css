@@ -260,7 +260,6 @@ ul{
 .footer{
     margin-top: 50px;
     background-color: #F2F2F2;
-    height: 500px;
     width: 100vw;
 }
 
@@ -277,4 +276,4 @@ ul{
     line-height: 2.8;
 }
 
-
+/* Next edit is responsive  */
